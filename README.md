@@ -46,6 +46,6 @@ Aquí tienes algunos casos de uso para este proyecto:
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
 
-# ¡Disfruta utilizando el proyecto de Texto a Voz en Python y que mejore tus experiencias de texto a voz! 📢🎉🔊
+* ¡Disfruta utilizando el proyecto de Texto a Voz en Python y que mejore tus experiencias de texto a voz! 📢🎉🔊
 
  
